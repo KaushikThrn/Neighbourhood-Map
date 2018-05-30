@@ -9,9 +9,6 @@ html, body {
 	padding: 0;
 	width: 100px:;
 	}
-
-#list{
-   margin-left: 10px;
-   float: left;
-   margin-right: 5px;
+ul {
+  list-style-type: none;
 }
