@@ -1,6 +1,5 @@
 #map 
 { height: 100%; 
-  width: 80%;
   float: left;
 }
 html, body { 
@@ -10,8 +9,11 @@ html, body {
 	width: 100px:;
 	}
 
-#list{
+#lists{
    margin-left: 10px;
    float: left;
    margin-right: 5px;
+}
+.row{
+	height:100vh;
 }
